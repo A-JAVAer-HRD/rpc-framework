@@ -1,0 +1,6 @@
+# 项目排除路径
+/example-client/target/
+/example-server/target/
+/hello-service-api/target/
+/rpc-coomon/target/
+/rpc-famework-core/target/

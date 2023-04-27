@@ -1,0 +1,2 @@
+netty=com.huang.remoting.transport.netty.client.NettyRpcClient
+socket=com.huang.remoting.transport.socket.SocketRpcClient
